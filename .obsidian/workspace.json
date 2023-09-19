@@ -11,12 +11,8 @@
             "id": "27f0de48a40e8851",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flutter/vscode setting.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/vscode setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/vscode setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "flutter/vscode setting.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "27f0de48a40e8851",
+  "active": "71e4c0ab987b7420",
   "lastOpenFiles": [
+    "영상.md",
+    "영상",
     "flutter/vscode setting.md",
     "flutter"
   ]
