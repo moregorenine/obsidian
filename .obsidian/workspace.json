@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "korean/맞춤법.md",
+                "file": "design/JohnKOBA Design.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "korean/맞춤법.md",
+                "file": "design/JohnKOBA Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "korean/맞춤법.md",
+                "file": "design/JohnKOBA Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "korean/맞춤법.md"
+                "file": "design/JohnKOBA Design.md"
               }
             }
           }
@@ -168,13 +168,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "71e4c0ab987b7420",
+  "active": "19caff535759065c",
   "lastOpenFiles": [
+    "design/FEWED Design.md",
+    "design/JohnKOBA Design.md",
+    "flutter/vscode setting.md",
     "korean/맞춤법.md",
     "korean",
-    "flutter/vscode setting.md",
-    "design/JohnKOBA Design.md",
-    "design/FEWED Design.md",
     "design/FEWED Design",
     "design/JohnKOBA Design",
     "design",
