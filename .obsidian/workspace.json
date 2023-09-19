@@ -23,16 +23,24 @@
             "id": "8bc3334b5c102c9a",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "19caff535759065c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "flutter/vscode setting.md",
+                "file": "korean/맞춤법.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/vscode setting.md",
+                "file": "korean/맞춤법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/vscode setting.md",
+                "file": "korean/맞춤법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flutter/vscode setting.md"
+                "file": "korean/맞춤법.md"
               }
             }
           }
@@ -160,14 +168,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8bc3334b5c102c9a",
+  "active": "71e4c0ab987b7420",
   "lastOpenFiles": [
+    "korean/맞춤법.md",
+    "korean",
+    "flutter/vscode setting.md",
     "design/JohnKOBA Design.md",
     "design/FEWED Design.md",
     "design/FEWED Design",
     "design/JohnKOBA Design",
     "design",
-    "flutter/vscode setting.md",
     "영상",
     "flutter"
   ]
